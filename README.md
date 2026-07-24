@@ -47,6 +47,7 @@ Short dramas are vertical-format episodic series, typically 1-3 minutes per epis
 - [咪咕短剧 (Migu)](https://www.migu.cn) - China Mobile's content platform with short drama channel.
 - [河马剧场 (Hema)](https://hemajuchang.com) - Dedicated short drama app by 点众科技 (Dianzhong).
 - [九州短剧 (Jiuzhou)](https://jiuzhouduanju.com) - Short drama platform by 九州文化.
+- [心动短剧 (Xindong Short Drama)](https://xindongduanju.com/en) - Browser-based Chinese short-drama catalog with direct web playback and English genre discovery.
 
 ### Southeast Asia & Others
 
