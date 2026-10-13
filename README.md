@@ -74,6 +74,7 @@ Short dramas are vertical-format episodic series, typically 1-3 minutes per epis
 
 ## Content Discovery
 
+- [Mitang Short Drama Guide (蜜糖短剧指南)](https://dez22a.github.io/mitang-short-drama/) - Chinese-language guides for finding short dramas by plot, comparing genres, checking completion status, and tracking episodes.
 - [MyDramaList](https://mydramalist.com) - Large community-driven database for Asian dramas including short dramas.
 - [Douban (豆瓣)](https://www.douban.com) - Chinese platform with user ratings and reviews for short dramas.
 - [Viki](https://www.viki.com) - Streaming platform with some short drama content and community subtitling.
