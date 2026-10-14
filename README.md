@@ -75,6 +75,7 @@ Short dramas are vertical-format episodic series, typically 1-3 minutes per epis
 ## Content Discovery
 
 - [MyDramaList](https://mydramalist.com) - Large community-driven database for Asian dramas including short dramas.
+- [ShortDramaBase](https://shortdramabase.com) - Searchable catalog of short dramas across DramaBox, ReelShort and more, with ratings, episode counts and where to watch.
 - [Douban (豆瓣)](https://www.douban.com) - Chinese platform with user ratings and reviews for short dramas.
 - [Viki](https://www.viki.com) - Streaming platform with some short drama content and community subtitling.
 - [ReelPulse Rankings](https://reelpulse.net/rankings) - Top 100 short drama apps ranked by content quality, UX, and value.
