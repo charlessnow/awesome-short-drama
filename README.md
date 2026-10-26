@@ -112,6 +112,7 @@ Short dramas are vertical-format episodic series, typically 1-3 minutes per epis
 - [Tongyi Wanxiang (通义万相)](https://tongyi.aliyun.com/wanxiang) - Alibaba's AI video generation tool used in short drama production.
 - [Kling AI (可灵)](https://klingai.com) - Kuaishou's AI video generation model, widely adopted for short drama prototyping.
 - [Minimax Hailuo](https://hailuoai.video) - AI video generation platform increasingly used in the short drama pipeline.
+- [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) - Open-source (AGPL-3.0), self-hostable AI short-drama studio covering script, characters, scenes, props, storyboard, voice and edit; uses paid Seedream/Seedance APIs with your own keys.
 - [Runway ML](https://runwayml.com) - AI creative tools for video editing and effects, used in short drama post-production.
 - [Final Draft](https://www.finaldraft.com) - Industry-standard screenwriting software applicable to short drama scripts.
 
