@@ -78,6 +78,7 @@ Short dramas are vertical-format episodic series, typically 1-3 minutes per epis
 - [Douban (豆瓣)](https://www.douban.com) - Chinese platform with user ratings and reviews for short dramas.
 - [Viki](https://www.viki.com) - Streaming platform with some short drama content and community subtitling.
 - [ReelPulse Rankings](https://reelpulse.net/rankings) - Top 100 short drama apps ranked by content quality, UX, and value.
+- [ShortDramaPedia](https://shortdramapedia.com/) - English-language short drama guides with cast information and links to official viewing options.
 - [短剧好 (duanjuhao)](https://duanjuhao.com) - Chinese-language short drama recommendations and viewing guides for overseas audiences.
 
 ## Industry Intelligence
