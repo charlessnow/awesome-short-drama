@@ -32,7 +32,7 @@ Short dramas are vertical-format episodic series, typically 1-3 minutes per epis
 - [HiShort](https://www.hishort.tv) - Short drama app with multi-language subtitles.
 - [Kaluah](https://www.kaluah.com) - Short drama platform expanding into Latin American markets.
 - [iSeries](https://www.iseriesapp.com) - Short drama app popular in Southeast Asian markets.
-- [SparklingPlay](https://sparklingplay.com) - Watch short dramas free in the browser, no app download; English, Spanish and Traditional Chinese subtitles. Also on iOS.
+- [SparklingPlay](https://sparklingplay.com) - Browser-first short drama platform; first episodes free to watch in the browser, no download needed. Also on iOS.
 
 ### Chinese Language
 
