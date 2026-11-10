@@ -104,6 +104,7 @@ Short dramas are vertical-format episodic series, typically 1-3 minutes per epis
 - [Ampere Analysis](https://www.ampereanalysis.com) - Global media analytics firm covering short-form video market trends.
 - [Omdia](https://omdia.tech.informa.com) - Technology research firm with coverage of the mobile entertainment and short-form content sector.
 - [易观分析 (Analysys)](https://www.analysys.cn) - Chinese digital analytics firm with short drama market sizing reports.
+- [Vertical Invasion 2026 (Streaming Lens)](https://lens.streaming-radar.com/vertical-invasion-2026) - Market report on vertical drama: market size, app economics, regulation, the strategies of apps and legacy studios. Paid, sold direct.
 
 ## Creator Resources
 
