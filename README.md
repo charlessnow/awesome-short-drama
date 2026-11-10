@@ -126,6 +126,7 @@ Short dramas are vertical-format episodic series, typically 1-3 minutes per epis
 - [KrASIA](https://kr-asia.com) - Asian tech and business news with deep coverage of Chinese entertainment going global.
 - [TechInAsia](https://www.techinasia.com) - Asian startup and tech news with short drama market analysis.
 - [South China Morning Post](https://www.scmp.com) - Hong Kong-based English-language outlet with regular short drama industry reporting.
+- [verticaldrama.tv](https://www.verticaldrama.tv) - Independent English-language site on vertical drama: weekly articles on the industry, a catalogue of 4,000+ series, and actor, platform and country pages.
 
 ### Chinese
 
