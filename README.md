@@ -100,6 +100,7 @@ Short dramas are vertical-format episodic series, typically 1-3 minutes per epis
 ## Industry Reports
 
 - [艾瑞咨询 (iResearch)](https://www.iresearch.cn) - Chinese consulting firm publishing quarterly micro-drama market reports.
+- [Vertical drama, the booklet (Streaming Lens)](https://lens.streaming-radar.com/vertical-drama-booklet) - Free English booklet on vertical drama: what it is, where the money goes, what China just changed, with more than one hundred dated references. Work email required.
 - [中国网络视听发展研究报告 (CNSA)](http://www.cnsa.cn) - Annual report by China Netcasting Services Association covering short drama regulations and market size.
 - [Ampere Analysis](https://www.ampereanalysis.com) - Global media analytics firm covering short-form video market trends.
 - [Omdia](https://omdia.tech.informa.com) - Technology research firm with coverage of the mobile entertainment and short-form content sector.
