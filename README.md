@@ -53,6 +53,8 @@ Short dramas are vertical-format episodic series, typically 1-3 minutes per epis
 - [NetShort](https://www.netshort.com) - Singapore-based short drama platform.
 - [Do Drama](https://www.dodrama.com) - Malaysia-focused short drama app.
 - [THINGMEDIA](https://thingmedia.jp) - Japanese short drama studio backed by Mixi, producing 100+ titles/year.
+- [Deedrama](https://deedrama.com/) - Thai-language website featuring Chinese short dramas with Thai dubbing and subtitles.
+- [Drama55](https://drama55.com/) - Thai-language website focused on Chinese short and vertical dramas with Thai dubbing.
 
 ## Production Studios
 
